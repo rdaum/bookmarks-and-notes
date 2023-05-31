@@ -19,6 +19,7 @@ Mostly links to papers for now.
   * "Persistent Adaptive Radix Trees: Efficient Fine-Grained Updates to
     Immutable Data" ; https://ankurdave.com/dl/part-tr.pdf
   * "An Introduction to Bε-trees and Write-Optimization"; http://supertech.csail.mit.edu/papers/BenderFaJa15.pdf
+  * "The ART of Practical Synchronization" ; https://db.in.tum.de/~leis/papers/artsync.pdf ; Optimistic lock coupling for Adaptive Radix Trees
 
 ## books
 
