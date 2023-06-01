@@ -3,8 +3,6 @@
 A place to put things people show me and I come across, since I keep losing/tangling mental threads. 
 Mostly links to papers for now.
 
-## papers
-
 ### db architecture / internals 
 
   * "An Empirical Evaluation of In-Memory Multi-Version Concurrency Control"; https://db.cs.cmu.edu/papers/2017/p781-wu.pdf ; A great overview of MVCC implementation techniques including a 
@@ -18,8 +16,9 @@ Mostly links to papers for now.
   * "The Adaptive Radix Tree: ARTful Indexing for Main-Memory Databases"; https://db.in.tum.de/~leis/papers/ART.pdf
   * "Persistent Adaptive Radix Trees: Efficient Fine-Grained Updates to
     Immutable Data" ; https://ankurdave.com/dl/part-tr.pdf
-  * "An Introduction to Bε-trees and Write-Optimization"; http://supertech.csail.mit.edu/papers/BenderFaJa15.pdf
   * "The ART of Practical Synchronization" ; https://db.in.tum.de/~leis/papers/artsync.pdf ; Optimistic lock coupling for Adaptive Radix Trees
+  * "Persistent Storage of Adaptive Radix Trees in DuckDB" ; https://duckdb.org/2022/07/27/art-storage.html ; How DuckDB came up with a scheme for paging on ARTs
+  * "An Introduction to Bε-trees and Write-Optimization"; http://supertech.csail.mit.edu/papers/BenderFaJa15.pdf
 
 ## books
 
