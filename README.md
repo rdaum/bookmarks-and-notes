@@ -20,6 +20,7 @@ Mostly links to papers for now.
   * "The ART of Practical Synchronization" ; https://db.in.tum.de/~leis/papers/artsync.pdf ; Optimistic lock coupling for Adaptive Radix Trees
   * "Persistent Storage of Adaptive Radix Trees in DuckDB" ; https://duckdb.org/2022/07/27/art-storage.html ; How DuckDB came up with a scheme for paging on ARTs
   * "CuART - a CUDA-based, scalable Radix-Tree lookup and update engine"; https://dl.acm.org/doi/pdf/10.1145/3472456.3472511 / https://www.youtube.com/watch?v=ei_aNNNBNRA ; (2021) an optimized version of the Adaptive Radix Tree (ART) index structure for GPUs
+  * "WORT: Write Optimal Radix Tree for Persistent Memory Storage Systems"; https://www.usenix.org/system/files/conference/fast17/fast17-lee.pdf ; (2017) write optimized radix trees for persistent storage
 
 #### BTrees
   * "Parallelizing Approximate Search on Adaptive Radix Trees"; https://ceur-ws.org/Vol-2646/16-paper.pdf ; (2016) "We propose a parallel approximate search in the ART on CPU and GPU to optimize the throughput of queries and speed up applications that depends on these algorithms."
