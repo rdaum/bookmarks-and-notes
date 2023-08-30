@@ -32,3 +32,8 @@ Mostly links to papers for now.
 
   * "Databases, Types & the Relational Model"; Chris Date's "3rd manifesto"; https://www.dcs.warwick.ac.uk/~hugh/TTM/DTATRM.pdf
   * "Foundations of Databases"; Alice Book; http://webdam.inria.fr/Alice/
+
+## useful libraries / crates
+
+  * https://github.com/Amanieu/hashbrown - Rust port of Google's high-performance SwissTable hash map, adapted to make it a drop-in replacement for Rust's standard HashMap and HashSet types.
+  * https://github.com/m-ou-se/atomic-wait - Cross platform atomic wait and wake (aka futex) functionality. When one needs to build one's own customlocks..
