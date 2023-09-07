@@ -37,3 +37,10 @@ Mostly links to papers for now.
 
   * https://github.com/Amanieu/hashbrown - Rust port of Google's high-performance SwissTable hash map, adapted to make it a drop-in replacement for Rust's standard HashMap and HashSet types.
   * https://github.com/m-ou-se/atomic-wait - Cross platform atomic wait and wake (aka futex) functionality. When one needs to build one's own customlocks..
+
+## bookmarks
+
+Things I keep forgetting and I am terrible about keeping in my browser bookmarks.
+
+  * http://databasearchitects.blogspot.com/2020/10/c-concurrency-model-on-x86-for-dummies.html - nice simple atomics explainer
+  * https://travisdowns.github.io/blog/2020/07/06/concurrency-costs.html - performant concurrent counters are harder than you think (thanks for link, Bruce)
