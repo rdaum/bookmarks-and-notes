@@ -11,6 +11,9 @@ Mostly links to papers for now.
   * "Virtual-Memory Assisted Buffer Management"; https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/_my_direct_uploads/vmcache.pdf
   * "Umbra: A Disk-Based System with In-Memory Performance" ; https://db.in.tum.de/~freitag/papers/p29-neumann-cidr20.pdf
 
+### data model / query
+  * "What You Always Wanted to Know About Datalog (And Never Dared to Ask)" (1989) ; https://www2.cs.sfu.ca/CourseCentral/721/jim/DatalogPaper.pdf (P 151 "... Each clause of a Datalog program is translated, by a syntax-directed translation algorithm, into an inclusion relationship of relational algebra ..." 🔥)
+ 
 ### data structures 
   
 #### Adaptive Radix Trees
