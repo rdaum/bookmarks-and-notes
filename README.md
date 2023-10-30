@@ -41,6 +41,7 @@ Mostly links to papers for now.
   * https://github.com/Amanieu/hashbrown - Rust port of Google's high-performance SwissTable hash map, adapted to make it a drop-in replacement for Rust's standard HashMap and HashSet types.
   * https://github.com/m-ou-se/atomic-wait - Cross platform atomic wait and wake (aka futex) functionality. When one needs to build one's own customlocks..
   * https://github.com/stateright/stateright - "Stateright", distributed algorithm correctness testing / model checker
+  * https://github.com/SmnTin/lincheck - Linearizibility checker for Rust
 
 ## useful documents / tools
 
